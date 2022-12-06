@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GeekNinja24
 - 👀 I’m interested in AI/ML,Deep Learning.
-- 🌱 I’m currently learning Android/Backend.
-- 💞️ I’m looking to collaborate on Android Dvelopment and Web Development.
+- 🌱 Android/Front-End Developer.
+- 💞️ I’m looking to collaborate on Android Dvelopment and Web Development projects.
 - 📫 Mail - sauravsudhakar@gmail.com
 
 <!---
